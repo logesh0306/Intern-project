@@ -1,0 +1,19 @@
+# Ignore Python cache and virtual envs
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# VSCode and IDE settings
+.vscode/
+.idea/
+
+# Virtual environment folders
+env/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ignore dotenv files
+.env
